@@ -8,7 +8,7 @@ This is a simple web application built with React and Tailwind CSS that fetches 
 
 - Fetches latest news articles from the News API.
 - Displays news articles in a visually appealing manner.
-- Allows users to filter news articles based on different categories.
+- Dark Mode for better readibility.
 - Provides a search functionality to find specific news articles.
 
 ## Technologies Used
